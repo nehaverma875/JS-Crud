@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(187, 184, 184);
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    align-items: center;
+}
+
+table{
+    border: 1px solid red;
+    background-color:whitesmoke;
+}
+.t20{
+    color: red;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.t21{
+    margin-top: -33px;
+    font-size: 40px;
+}
